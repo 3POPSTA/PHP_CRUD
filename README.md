@@ -1,3 +1,3 @@
-This is a basic crud app 
-nothing flashy 
+This is a basic CRUD app
+Nothing flashy 
 v1.00
