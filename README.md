@@ -1,3 +1,3 @@
 This is a basic crud app 
 nothing flashy 
-v1
+v1.00
